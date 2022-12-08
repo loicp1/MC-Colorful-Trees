@@ -2,20 +2,15 @@
 
 ## A Minecraft resource pack that tweaks trees.
 
-Colorful Trees aims to bring a bit more variety to your Minecraft world without bringing too much changes - as a matter of fact there's only one change, and it's about the color of the tree leaves.
+Colorful Trees aims to bring a bit more variety to your Minecraft world without changing it too much. Two types of trees are concerned : birch and acacia, which leaves will respectively turn yellow and red. These changes will make birch forests more fun and more unique to explore, and will highlight the dryness of savannas, reinforcing their ambience. Another benefit of this pack? It will give an esthetic utility to these types of leaves!
 
-Two types of trees are concerned.
+## Additional info
 
-### Birch
-_Betula alleghaniensis_, also known as "Golden birch", is the reason behind birch leaves turning yellow here. This will make bitch forests a little more fun to explore and give a utility to birch leaves.
-
-### Acacia
-Acacia leaves becoming red doesn't make any real sense, but it matches the Savanna ambience well and will highlight the dryness of this biome.
-___
+This resource pack is compatible with Minecraft 1.19 (tested) and should work down to Minecraft 1.16 (not tested). Older versions - and more recent ones when there are - may not support Colorful Trees. If you're not familiar with Github, click on the "<> Code" button, then "Download ZIP" to download the pack. Any use of any resource from this pack is allowed as long as credit is given (e.g. link this Github repository in a text file).
 
 ## Preview
 
-Some textures in these screenshots come from my other resource pack, Lolito's Own. Please don't take them into consideration when deciding whether to use this pack.
+Some textures in these screenshots come from my other resource pack Lolito's Own. Please do not take them into consideration.
 
 ![A birch forest with yellow birch leaves](./preview/birch.png)
 
